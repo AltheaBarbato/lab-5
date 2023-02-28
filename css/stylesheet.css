@@ -27,7 +27,7 @@ border: 5px solid;
   color: deepskyblue;
 
   border-color: indigo;
-  border-style: groove;
+  border-style: outset;
   font-size: x-large;
   text-align: center;
 }
