@@ -39,7 +39,7 @@ h1 {
 }
 td:nth-child(even){
   border-style: double;
-  border-color: indigo;
+  border-color: orangered;
 }
 
 
