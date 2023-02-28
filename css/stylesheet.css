@@ -1,0 +1,12 @@
+body {
+  background-image: url("https://img.freepik.com/free-vector/galaxy-background-desktop-wallpaper-space-vector_53876-136882.jpg?w=360");
+}
+table {
+  text-align: center;
+}
+img {
+  width: 300px;
+  height: 160px;
+  border-radius: 25%;
+}
+
