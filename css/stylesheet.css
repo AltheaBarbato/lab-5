@@ -36,6 +36,8 @@ h1 {
   color: blueviolet;
   font-weight: bolder;
   font-family: "Tilt Warp", cursive;
+  background-image: linear-gradient(to left, violet, #9fa0ff, indigo, #9fa0ff, violet);
+  border-radius: 150px; 
 }
 
 
