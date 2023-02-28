@@ -47,6 +47,11 @@ th:hover{
   background-color: lemonchiffon;
   color: orange;
   }
+h1:hover{
+  background-image: linear-gradient(to left, deepskyblue, indigo, deepskyblue);
+  color: orange;
+  }
+
 
 
 
