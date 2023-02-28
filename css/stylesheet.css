@@ -19,3 +19,13 @@ th {
   font-size: x-large;
   text-align: center;
 }
+td {
+border: 5px solid;
+  font-weight: bold;
+  font-family: "Tilt Warp", cursive;
+  color: deepskyblue;
+
+  border-color: khaki;
+  font-size: x-large;
+  text-align: center;
+}
