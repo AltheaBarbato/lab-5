@@ -37,7 +37,7 @@ h1 {
   font-weight: bolder;
   font-family: "Tilt Warp", cursive;
 }
-td:nth-child(even){
+td:nth-child(odd){
   border-style: double;
   border-color: orangered;
 }
