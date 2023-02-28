@@ -16,6 +16,7 @@ th {
   color: deepskyblue;
 
   border-color: khaki;
+  border-style: double;
   font-size: x-large;
   text-align: center;
 }
