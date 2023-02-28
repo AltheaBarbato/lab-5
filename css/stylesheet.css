@@ -43,5 +43,10 @@ td:hover{
   background-color: indigo;
   color: white;
   }
+th:hover{
+  background-color: khaki;
+  color: white;
+  }
+
 
 
