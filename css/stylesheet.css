@@ -37,3 +37,11 @@ h1 {
   font-weight: bolder;
   font-family: "Tilt Warp", cursive;
 }
+.smallest-value {
+  border-style: dotted;
+}
+
+.largest-value {
+  border-style: solid;
+}
+
