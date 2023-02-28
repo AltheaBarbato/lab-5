@@ -37,6 +37,10 @@ h1 {
   font-weight: bolder;
   font-family: "Tilt Warp", cursive;
 }
+tr:nth-child(even){
+  border-style: double;
+  border-color: indigo;
+}
 
 
 
