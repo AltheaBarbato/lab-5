@@ -41,6 +41,10 @@ td:nth-child(odd){
   border-style: double;
   border-color: orangered;
 }
+td:nth-child(even){
+  border-style: outset;
+  border-color: indigo;
+}
 
 
 
