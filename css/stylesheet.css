@@ -9,4 +9,13 @@ img {
   height: 260px;
   border-radius: 25%;
 }
+th {
+  border: 5px solid;
+  font-weight: bold;
+  font-family: "Tilt Warp", cursive;
+  color: blueviolet;
 
+  border-color: purple;
+  font-size: x-large;
+  text-align: center;
+}
